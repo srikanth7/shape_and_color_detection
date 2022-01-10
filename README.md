@@ -3,5 +3,5 @@
 This program can detect the shape and color of geometric shapes
 
 Uses packages:
-opencv-python
-numpy
+- opencv-python
+- numpy
